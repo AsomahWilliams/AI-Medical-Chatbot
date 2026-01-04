@@ -89,7 +89,7 @@ The chatbot suggests precautionary measures based on the identified infectious d
 
 **Author**
 
-- **Sri Ram Reddy Alla**: Developer of the AI Infectious Disease Chatbot.
+- **WILLIAMS**: Developer of the AI Infectious Disease Chatbot.
 
 **About**
 This project is designed to assist in early disease detection and prevention. Future enhancements include integrating more datasets, improving NLP capabilities, and adding real-time health monitoring features.
@@ -103,7 +103,6 @@ This project is designed to assist in early disease detection and prevention. Fu
 - chatbot
 
 **License**
-MIT License
 
 **GNU general public license 3.0**
 
